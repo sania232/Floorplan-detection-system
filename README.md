@@ -1,3 +1,9 @@
+<h1>Image Augmentation</h1>
+
+This was used in training to quickly generate a versatile variety of data mostly focusing on the usage of noisy images and different sides, angles of
+rotation and translations (geometric augmentations).
+
+
 <h1> Object Detection </h1>
 This floorplan detection system is used to take a floorplan like the one below
 
