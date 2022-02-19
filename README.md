@@ -1,6 +1,7 @@
 <h1> Object Detection </h1>
 This floorplan detection system is used to take a floorplan like the one below
-![floorplan](https://user-images.githubusercontent.com/38992928/154818733-f95d901a-fea5-4c4f-92bc-64dea969d40d.png)
+
+![floorplan](https://user-images.githubusercontent.com/38992928/154818769-90f9f141-93fb-4b94-8c7e-540968dd1551.png)
 
 
 and then uses the YOLO v3 algorithm to draw bounding boxes around the its basic elements(doors, windows, walls)
